@@ -1,6 +1,17 @@
 # python-autoclicker
 A simple autoclicker with controls using pyautogui. 
-![Image](https://i.imgur.com/QIh8yAA.png)
+``` shell
+// AutoClicker by StefKot
+// - Settings:
+         delay = 0.1 sec
+
+// - Controls:
+         F1 = Resume
+         F2 = Pause
+         Esc = Exit
+-----------------------------------------------------
+Press F1 to start ...
+```
 
 Default delay is 0.1 second.
 
